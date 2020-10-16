@@ -38,7 +38,7 @@ To start the program
 java BusinessCardParser
 ```
 ## Testing Solution
-Running the examples
+To run the examples
 ```bash
 Example1.txt
 ```
