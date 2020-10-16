@@ -24,20 +24,20 @@ The BusinessCardParser.java class is a public class used for parsing information
 ## Running Solution 
 To run this program, please download all the files in this repository.
 This program can be run using Terminal.
-For MacOS, to locate the file
+For MacOS, to locate the file you must first change directories:
 ```bash
 cd Downloads
 ```
-To compile the program
+To compile the program:
 ```bash
 javac BusinessCardParser.java
 ```
-To start the program
+To start the program:
 ```bash
 java BusinessCardParser
 ```
 ## Testing Solution
-To run the examples
+To run the examples:
 ```bash
 Example1.txt
 ```
