@@ -1,5 +1,5 @@
 # asymmetrikORC
-Asymmetrik Programming Challenge 1 - Business Card OCR
+## Asymmetrik Programming Challenge 1 - Business Card OCR
 
 The objective of this programming challenge was to create a command line tool to parse information from business cards.
 More specifically, parsing results of a optical character recognition component find the name, phone number, and email address in the card.
@@ -9,6 +9,7 @@ This program was created using Mac OS and written in Java. In order to build and
 Any text editor may be used to create this program however, to minimize errors it is highly recommended to use a source code editor software.
 For this challenge, Atom editor was used on a Mac OS.
 
+# Building Solution 
 Building this solution involves three major components; retrieving the name, phone number, and email address from given text files.
 The program will be able to read external files through the input output package.
 Using regular expressions to match a certain line in a given file is used to find the name, phone number, and email address.
@@ -20,9 +21,10 @@ The program then prints the name, phone number, and email address found in the f
 The ContactInfo.java class is a public class used for getting and setting objects and methods into the BusinessCardParser.java class.
 The BusinessCardParser.java class is a public class used for parsing information from a text file that is inserted by the user. This class returns the name, phone number, and email address found in the file.
 
+# Running Solution 
 To compile the program
-
 
 To start the program
 
+# Testing Solution
 Running the examples
