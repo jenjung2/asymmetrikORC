@@ -23,11 +23,21 @@ The BusinessCardParser.java class is a public class used for parsing information
 
 ## Running Solution 
 To compile the program
-###### javac BusinessCardParser.java
+```bash
+javac BusinessCardParser.java
+```
 To start the program
-###### java BusinessCardParser
+```bash
+java BusinessCardParser
+```
 ## Testing Solution
 Running the examples
-###### Example1.txt
-###### Example2.txt
-###### Example3.txt
+```bash
+Example1.txt
+```
+```bash
+Example2.txt
+```
+```bash
+Example3.txt
+```
