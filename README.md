@@ -1,5 +1,5 @@
+# Asymmetrik Programming Challenge 1 - Business Card OCR
 # asymmetrikORC
-## Asymmetrik Programming Challenge 1 - Business Card OCR
 
 The objective of this programming challenge was to create a command line tool to parse information from business cards.
 More specifically, parsing results of a optical character recognition component find the name, phone number, and email address in the card.
