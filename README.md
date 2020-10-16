@@ -22,6 +22,13 @@ The ContactInfo.java class is a public class used for getting and setting object
 The BusinessCardParser.java class is a public class used for parsing information from a text file that is inserted by the user. This class returns the name, phone number, and email address found in the file.
 
 ## Running Solution 
+To run this program, please download all the files in this repository.
+This program can be run using Terminal.
+For MacOS, to locate the file, use:
+```bash
+cd Downloads
+```
+Or where ever the downloaded files are located.
 To compile the program
 ```bash
 javac BusinessCardParser.java
