@@ -5,9 +5,8 @@ The objective of this programming challenge was to create a command line tool to
 More specifically, parsing results of a optical character recognition component find the name, phone number, and email address in the card.
 Furthermore, implementing a specific interface was required as well as testing the program with three example cases.
 
-This program was created using Mac OS and written in Java. In order to build and run this program, a compatible system is required as well as installing Java Developer Kit and Java Runtime Environment.
+In order to build and run this program, a compatible system is required as well as installing Java Developer Kit and Java Runtime Environment.
 Any text editor may be used to create this program however, to minimize errors it is highly recommended to use a source code editor software.
-For this challenge, Atom editor was used on a Mac OS.
 
 ## Building Solution 
 Building this solution involves three major components; retrieving the name, phone number, and email address from given text files.
